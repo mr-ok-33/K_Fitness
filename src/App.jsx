@@ -11,6 +11,7 @@ import Login from './Components/Registration/Login';
 import Contact from './Components/Contact/Contact';
 function App() {
   return (
+    // App.jsx
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />}>
