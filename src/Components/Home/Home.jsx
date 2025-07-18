@@ -1,7 +1,6 @@
 // App.jsx
 import React, { useState } from 'react';
 import Header from '../Header/Header';
-import Footer from '../Footer/footer';
 import { Outlet } from 'react-router-dom';
 import Registration from '../Registration/Registration';
 import { Link } from 'react-router-dom';
